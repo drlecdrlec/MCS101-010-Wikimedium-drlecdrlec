@@ -9,10 +9,10 @@
 }*/
 
 .postsFeed {
-  display: flex;
+  /*display: flex;
   align-items: center;
   overflow: hidden;
-  flex-direction: column;
+  flex-direction: column;*/
   position: relative;
   padding-top: 80px;
 }
