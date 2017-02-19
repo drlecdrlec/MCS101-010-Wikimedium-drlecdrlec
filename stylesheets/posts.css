@@ -21,7 +21,7 @@
   display: block;
   width: 740px;
   margin: 10px auto;
-  padding: 20px;
+  padding: 0 20px 20px 20px;
   background-color: #FFFFFF;
   border: 1px solid rgba(0,0,0,.10);
   box-shadow: 0 1px 4px 0 rgba(0,0,0,.05);
@@ -40,6 +40,14 @@
   font-size: 22px;
   line-height: 32px;
 }
+
+.postsFeed header {
+  height: 40px;
+  font-size: 14px;
+  line-height: 40px;
+  color: rgba(0, 0, 0, 0.4);
+}
+
 .postsFeed figure {
   margin-bottom: 31px;
   background-size: cover;
